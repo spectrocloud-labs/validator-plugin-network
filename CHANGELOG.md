@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.0.18](https://github.com/validator-labs/validator-plugin-network/compare/v0.0.17...v0.0.18) (2024-06-27)
+
+
+### Bug Fixes
+
+* **deps:** update kubernetes packages to v0.30.2 ([#207](https://github.com/validator-labs/validator-plugin-network/issues/207)) ([859067b](https://github.com/validator-labs/validator-plugin-network/commit/859067bdf10e491af04c2e7e8d7fa141a25cf2cd))
+* **deps:** update module github.com/validator-labs/validator to v0.0.42 ([#204](https://github.com/validator-labs/validator-plugin-network/issues/204)) ([4f6c201](https://github.com/validator-labs/validator-plugin-network/commit/4f6c201e1a9c9c593d41148f6a1df8d39f115c56))
+* **deps:** update module github.com/validator-labs/validator to v0.0.43 ([#210](https://github.com/validator-labs/validator-plugin-network/issues/210)) ([fb6ac61](https://github.com/validator-labs/validator-plugin-network/commit/fb6ac616cbb65ffff2dc12be3a8c7e52a6418cf4))
+* **deps:** update module sigs.k8s.io/cluster-api to v1.7.3 ([#206](https://github.com/validator-labs/validator-plugin-network/issues/206)) ([ae89dee](https://github.com/validator-labs/validator-plugin-network/commit/ae89deeabab30fe72625a7781a0e0d03c5a5aa6f))
+
+
+### Other
+
+* make the IP Range Rule's details a bit more clear ([#209](https://github.com/validator-labs/validator-plugin-network/issues/209)) ([f7a123a](https://github.com/validator-labs/validator-plugin-network/commit/f7a123a4c5ef839bc9145e4f6e966105fd4fb1ab))
+
 ## [0.0.17](https://github.com/validator-labs/validator-plugin-network/compare/v0.0.16...v0.0.17) (2024-06-05)
 
 
